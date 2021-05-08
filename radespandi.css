@@ -2,7 +2,6 @@ body {
     background-color: #ffffff !important;
 }
 
-
 .form-control {
     padding: 20px 10px;
     border-radius: 0;
@@ -10,14 +9,13 @@ body {
     outline: none;
     font-size: 14px;
 }
+.form-group {
+    margin-top: auto;
 
+}
 .form-control:focus {
     box-shadow: 0 0 0 transparent;
     border: none;
-}
-
-.form-group {
-    margin-top: auto;
 }
 
 .up {
@@ -34,8 +32,8 @@ body {
 }
 
 .btn-primary {
-    background-color: #053d86 !important;
-    border: 1px solid #053d86 !important;
+    background-color: #4c5461 !important;
+    border: 1px solid #4c5461 !important;
     padding: 10px;
     font-size: 15px;
 }
