@@ -1,5 +1,11 @@
 body {
-    background-color: #ffffff !important;
+    background-color: #4a65a5 !important;
+}
+
+.img-header {
+    width: 200px;
+    display: block;
+    margin: auto;
 }
 
 .form-control {
@@ -9,13 +15,14 @@ body {
     outline: none;
     font-size: 14px;
 }
-.form-group {
-    margin-top: auto;
 
-}
 .form-control:focus {
     box-shadow: 0 0 0 transparent;
     border: none;
+}
+
+.form-group {
+    margin-top: auto;
 }
 
 .up {
@@ -32,8 +39,8 @@ body {
 }
 
 .btn-primary {
-    background-color: #4c5461 !important;
-    border: 1px solid #4c5461 !important;
+    background-color: #213873 !important;
+    border: 1px solid #213873 !important;
     padding: 10px;
     font-size: 15px;
 }
