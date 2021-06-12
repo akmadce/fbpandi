@@ -1,5 +1,5 @@
 body {
-    background-color: #4a65a5 !important;
+    background-color:  !important;
 }
 
 .img-header {
@@ -39,8 +39,8 @@ body {
 }
 
 .btn-primary {
-    background-color: #213873 !important;
-    border: 1px solid #213873 !important;
+    background-color: ##1877f2 !important;
+    border: 1px solid ##1877f2 !important;
     padding: 10px;
     font-size: 15px;
 }
